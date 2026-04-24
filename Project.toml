@@ -1,7 +1,7 @@
 name = "MediaHelper"
 uuid = "c50a6990-8f38-4e5c-a7c3-e94f197f1a43"
 version = "0.1.0"
-authors = ["Craig M. Hamel <cmhamel32@gmail.com>"]
+authors = ["Craig M. Hamel <cmhamel32@gmail.com>", "Lizzy Storm"]
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
