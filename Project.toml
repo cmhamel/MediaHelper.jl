@@ -1,0 +1,14 @@
+name = "MediaHelper"
+uuid = "c50a6990-8f38-4e5c-a7c3-e94f197f1a43"
+version = "0.1.0"
+authors = ["Craig M. Hamel <cmhamel32@gmail.com>"]
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+ExifViewer = "81511e1f-44aa-483a-b228-c9d3a109f0d4"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+
+[compat]
+Dates = "1.11.0"
+ExifViewer = "0.1.5"
+ImageMagick = "1.4.2"
